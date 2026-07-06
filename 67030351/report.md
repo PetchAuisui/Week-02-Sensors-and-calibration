@@ -11,6 +11,6 @@
 |   135   | 3000 | 2970 |
 |   180   | 3900 | 3818 |
 
-## วิดิโอหารทดลอง
+## วิดิโอการทดลอง
 https://youtube.com/shorts/mrxujrzz2gw?feature=share
 
